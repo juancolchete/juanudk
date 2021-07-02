@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanudk" alt="juanudk" /></a> </p>
 
-- 🌱 I’m currently learning **APIs development**
+- 🌱 I’m currently learning **APIs development and Flutter**
 
 - 💬 Ask me about **Javascript Python and .Net**
 
