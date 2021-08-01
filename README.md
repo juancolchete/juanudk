@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://i.ibb.co/mHct0kj/capa.png" alt="juanudk" /> </p>
+<p align="left"> <img src="https://i.ibb.co/F0Hgztv/background.jpg" alt="juanudk" /> </p>
 
 <h1 align="center">Hi 👋, I'm Juan Colchete</h1>
 <h3 align="center">A developer of innovative solutions from Brazil</h3>
