@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **juancolchete@gmail.com**
 
+- 📊 Free crypto currencies mentoring 13:00 UTC on (discord)[https://discord.gg/CcZurY8vF6]
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/juancolchete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-colchete" height="30" width="40" /></a>
