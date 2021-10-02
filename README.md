@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://i.ibb.co/X5rwv0p/Github.jpg" alt="juanudk" /> </p>
 
 <h1 align="center">Hi 👋, I'm Juan Colchete</h1>
-<h3 align="center">A developer of innovative solutions from Brazil</h3>
+<h3 align="center">The developer that brings dreams to come real</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanudk&label=Profile%20views&color=0e75b6&style=flat" alt="juanudk" /> </p>
 
