@@ -1,4 +1,4 @@
-#Introduction 
+# Introduction 
 
 Hi am Juan Colchete and now will talk a little bit about my professional carrier I started to work with technology when a was thirteen, my first contact was with game development I worked with construct2 and Unreal Engine, after a while I entered in a technical school and there I discovered how to develop to web and desktop, there I discoverd open source projects and how to contribute, the stacks that I work with in the technical school were PHP, C#, web forms, HTML, CSS and after I entered in a tech company called BHS as a software developer, working in dotNet plugins development to Dynamics365, Power Platform automations with Logic Apps integrated with our customer portal and Dynamics365 CRM, then I go company that build a low code platform called Fluna, there I worked with Javascript making chatbots in the Blip Chat Platform, and few months later I used the Fluna's platform to develop flows. After I joined in TOTVS as Software Development Analyst and worked with C#, SQL and ERP development.
 
