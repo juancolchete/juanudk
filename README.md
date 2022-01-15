@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Solidity** to become a Blockchain developer
 
-- 💬 Ask me about **Javascript Python and .Net**
+- 💬 Ask me about **Solidity, Smart Contracts, DeFi **
 
 - 📫 How to reach me **juancolchete@gmail.com**
 
