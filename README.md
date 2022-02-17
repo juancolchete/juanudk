@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://i.ibb.co/X5rwv0p/Github.jpg" alt="juanudk" /> </p>
+<p align="left"> <img src="https://gateway.pinata.cloud/ipfs/QmWXpzoT8RJR9wtxMwdWHpAgEMJR5T1Nu7aGoA7s1kkfeD" alt="juanudk" /> </p>
 
 <h1 align="center">Hi 👋, I'm Juan Colchete</h1>
 <h3 align="center">The developer that brings dreams to come real</h3>
