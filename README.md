@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://gateway.pinata.cloud/ipfs/QmWXpzoT8RJR9wtxMwdWHpAgEMJR5T1Nu7aGoA7s1kkfeD" alt="juanudk" /> </p>
+<p align="left"> <img src="https://gateway.pinata.cloud/ipfs/QmfE9aZ8ycgud91uJoMiDuQtzAmHA6hK5egLXGWeZmNP7Z" alt="juanudk" /> </p>
 
 <h1 align="center">Hi 👋, I'm Juan Colchete</h1>
 <h3 align="center">The developer that brings dreams to come real</h3>
