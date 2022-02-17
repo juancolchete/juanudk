@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Juan Colchete</h1>
 <h3 align="center">The developer that brings dreams to come real</h3>
 
-<p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=juanudk.visitor-badge" alt="juanudk" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanudk" alt="juanudk" /></a> </p>
 
 - 🌱 I’m currently learning **Solidity** and DAPP development with Next.js, web3 and moralis
