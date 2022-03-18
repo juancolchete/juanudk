@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://ibb.co/GVcys1k" alt="juanudk" /> </p>
+<p align="left"> <img src="https://i.ibb.co/2jgx8LP/cover.png" alt="juanudk" /> </p>
 
 <h1 align="center">Hi 👋, I'm Juan Colchete</h1>
 <h3 align="center">The developer that brings dreams to come real</h3>
