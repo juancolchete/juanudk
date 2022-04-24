@@ -22,5 +22,4 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=juanudk&" alt="juanudk" width="70%" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanudk&show_icons=true&locale=en&layout=compact" alt="juanudk" width="70%" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanudk" alt="juanudk" width="70%" /></p>
 <p align="center"><a href="https://www.buymeacoffee.com/juanudk"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="70%" alt="juanudk" /></a></p>
