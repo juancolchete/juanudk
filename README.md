@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanudk" alt="juanudk" /></a> </p>
 
-- 🌱 I’m currently learning **Solidity** and DAPP development with Next.js, web3 and moralis
+- 🌱 I’m currently learning **Solidity** and DAPP development with Next.js, web3, moralis, SOlana
 
 - 💬 Ask me about **Solidity, Smart Contracts, DeFi**
 
